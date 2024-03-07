@@ -1,10 +1,10 @@
 package com.epicgames.unreal;
 
-import com.epicgames.MeshArtLab_Project.OBBDownloaderService;
-import com.epicgames.MeshArtLab_Project.DownloaderActivity;
+import com.epicgames.TransformObjects.OBBDownloaderService;
+import com.epicgames.TransformObjects.DownloaderActivity;
 import android.app.Activity;
 import com.google.android.vending.expansion.downloader.Helpers;
-import com.epicgames.MeshArtLab_Project.OBBData;
+import com.epicgames.TransformObjects.OBBData;
 
 
 public class DownloadShim
