@@ -3,6 +3,13 @@
 	"EngineAssociation": "5.3",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "TransformObjects",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "OculusXR",
