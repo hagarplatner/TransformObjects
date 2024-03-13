@@ -55,7 +55,7 @@
 		},
 		{
 			"Name": "GestureTrackerVR",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/378f739f054340899db2569090222fd3"
 		}
 	],
