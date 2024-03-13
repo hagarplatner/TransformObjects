@@ -8,7 +8,19 @@ public class TransformObjects : ModuleRules
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	
-		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore" });
+		PublicDependencyModuleNames.AddRange(new string[] { 
+			"Core", 
+			"CoreUObject", 
+			"Engine", 
+			"InputCore",
+			//Additional Modules
+			//"UnrealIED",
+			//"Blutility",
+			//"ContentBrowser",
+			//"AssetRegistry",
+			//"Python",
+            "PythonScriptPlugin"
+        });
 
 		PrivateDependencyModuleNames.AddRange(new string[] {  });
 
