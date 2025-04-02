@@ -6,6 +6,8 @@ Hand Functionality:
 - Scale: use both hand to touch object and make fists in two hands - when you push hands apart object will grow and when you pull them together object will get smaller.
 to diselect object open the hand (release fist) you interact with according to the functionality.
 
+Created in Unreal Engine 5
+
 Plugin used in Project:
 - MetaXR
 - Mixed Reality Utility Kit
